@@ -1,0 +1,20 @@
+{
+	"name": "Impending-Space",
+	"description": "A simultaneous turn-based web game",
+	"version": "dev",
+	"homepage": "https://impending-space.firebaseapp.com",
+
+	"dependencies": {
+		"requirejs": "latest",
+
+		"angular": "1.2.x",
+		"angular-animate": "1.2.x",
+		"angular-resource": "1.2.x",
+		"angular-loader": "1.2.x",
+
+		"angular-ui-utils": "latest",
+
+		"firebase": "latest",
+		"angularfire": "latest"
+	}
+}
